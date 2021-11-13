@@ -1,11 +1,15 @@
-## Welcome to my recipies
+# My Recipies
+## Salts, Rubs, Sauces
+- [Salts n Rubs](salts_n_rubbs.md)
+- [Sauces](sauces.md)
 
+## Chris firendly recipes
+- [GF Pancakes](GF_pancakes.md)
+- [Potato Bread](Potato_Bread.md)
+## Indian dishes
+- [Chicken Tikka](Chicken_Tikka.md)
+## Sides
+[Cajun Dirty Rice](Cajun_dirty_rice.md)
 
-[Dirty Rice](https://github.com/crizdv/my-recipes/blob/master/docs/Recipes/Cajun_dirty_rice.md)
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crizdv/my-recipes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ ## Sweets
+[Russian Fudge](Russian_fudge.md)
