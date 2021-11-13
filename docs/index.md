@@ -1,17 +1,18 @@
 # My Recipies
 ## Salts, Rubs, Sauces
-- [Salts n Rubs](salts_n_rubbs.md)
-- [Sauces](sauces.md)
+- [Salts n Rubs](Recipes/salts_n_rubbs.md)
+- [Sauces](Recipes/sauces.md)
 
-## Chris firendly recipes
-- [GF Pancakes](GF_pancakes.md)
-- [Potato Bread](Potato_Bread.md)
+## Recipes
+- [GF Pancakes](Recipes/GF_pancakes.md)
+- [Potato Bread](Recipes/Potato_Bread.md)
+- [Pork Stew](Recipes/1pot-pork-stew.md)
 
 ## Indian dishes
-- [Chicken Tikka](Chicken_Tikka.md)
+- [Chicken Tikka](Recipes/Chicken_Tikka.md)
 
 ## Sides
-[Cajun Dirty Rice](Cajun_dirty_rice.md)
+- [Cajun Dirty Rice](Recipes/Cajun_dirty_rice.md)
 
  ## Sweets
-[Russian Fudge](Russian_fudge.md)
+- [Russian Fudge](Recipes/Russian_fudge.md)
