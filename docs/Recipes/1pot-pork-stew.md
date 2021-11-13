@@ -1,4 +1,6 @@
 # Pork Stew
+[original](https://twosleevers.com/instant-pot-spicy-pork-stew-spinach/)
+
 ## Timings
 Prep Time: 10 minutesCook Time: 30 minutesTotal Time: 40 minutes Course: Main Courses, SoupsCuisine: AmericanKeyword: instant pot pork stew, pork stew, spicy pork stew Servings: 4 Calories: 291kcal
 Click on highlighted ingredients or Equipment to see exactly what I use to make this recipe
