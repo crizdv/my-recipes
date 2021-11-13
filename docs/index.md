@@ -1,7 +1,7 @@
 ## Welcome to my recipies
 
 
-[[GF_pancakes]]
+[Dirty Rice](https://github.com/crizdv/my-recipes/blob/master/docs/Recipes/Cajun_dirty_rice.md)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crizdv/my-recipes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
