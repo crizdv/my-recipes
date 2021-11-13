@@ -15,5 +15,5 @@
 ## Sides
 - [Cajun Dirty Rice](Recipes/Cajun_dirty_rice.md)
 
- ## Sweets
+## Sweets
 - [Russian Fudge](Recipes/Russian_fudge.md)
