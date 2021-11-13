@@ -10,6 +10,7 @@
 
 ## Indian dishes
 - [Chicken Tikka](Recipes/Chicken_Tikka.md)
+- [Bombay Potatoes](Recipes/bombay_potatoes.md)
 
 ## Sides
 - [Cajun Dirty Rice](Recipes/Cajun_dirty_rice.md)
