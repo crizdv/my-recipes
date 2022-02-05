@@ -1,20 +1,20 @@
 # Hot Sauce - bbqd
 ## Ingredients
-9 or more chillies
-1 large palermo pepper
-2 small sweet peppers
-1/2 onion
-1 garlic clove
-1 glass of water
-1 glass of vegan wine
+- 9 or more chillies
+- 1 large palermo pepper
+- 2 small sweet peppers
+- 1/2 onion
+- 1 garlic clove
+- 1 glass of water
+- 1 glass of vegan wine
 
 ## Recipe
-bbq chillies and peppers for 30 mins in grill
-cook onion + garlic in wok until onion translucent
-add chillies and pappers cook for 10 mins
-add water+wine cook for 20-30 mins
+- bbq chillies and peppers for 30 mins in grill
+- cook onion + garlic in wok until onion translucent
+- add chillies and pappers cook for 10 mins
+- add water+wine cook for 20-30 mins
 
-let cool down, then blitz in nutri bullett
+- let cool down, then blitz in nutri bullett
 
 # Fermeted hot sauce
 
@@ -22,21 +22,21 @@ let cool down, then blitz in nutri bullett
 
 # Worchester sauce - chris friendly
 ## Ingredients
-1 			onion
-2			garlic cloves
-2 			anchovies
-125ml 		molasses
-125ml 		coconut aminos
-500ml		acidic white wine
-250ml 		water
-3tsps		grained mustard
-3cm			cinnamon stick
-1tbsp		black pepper corns
-4			smashed cardamon pods
-1 Tbls		whole cloves
-1/2 tbls	curry powder/replace with 
-3cm 		ginger
-a pinch		salt
+- 1 			onion
+- 2			garlic cloves
+- 2 			anchovies
+- 125ml 		molasses
+- 125ml 		coconut aminos
+- 500ml		acidic white wine
+- 250ml 		water
+- 3tsps		grained mustard
+- 3cm			cinnamon stick
+- 1tbsp		black pepper corns
+- 4			smashed cardamon pods
+- 1 Tbls		whole cloves
+- 1/2 tbls	curry powder/replace with 
+- 3cm 		ginger
+- a pinch		salt
 
 ## Recipe
 How to prepare Homemade Worcestershire Sauce

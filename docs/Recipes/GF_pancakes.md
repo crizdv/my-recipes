@@ -1,14 +1,14 @@
 # GF Pancakes - chris friendly
 
 ## Ingredients for 4 pancakes
-2 cups 		    GF flour
-4 tsps		    Baking powder
-1 tsps 		    sea salt
-2 large 	    eggs 			- replace with double amount of organ egg replacer for 2 eggs (4 tsps with 60ml water)
-2 1/2 cups	    milk (almond/rice/cashew). start with 1.5 cups and work up. Add more if you want to make larger skinnier pancakces
-1/4 cup		    avocado oil or olive oil
-2 tbls		    pure maple syrup or golden syrup (if using golden syrup slowly mix into milk)
-1 tsp 		    vanilla extract
+- 2 cups 		    GF flour
+- 4 tsps		    Baking powder
+- 1 tsps 		    sea salt
+- 2 large 	    eggs 			- replace with double amount of organ egg replacer for 2 eggs (4 tsps with 60ml water)
+- 2 1/2 cups	    milk (almond/rice/cashew). start with 1.5 cups and work up. Add more if you want to make larger skinnier pancakces
+- 1/4 cup		    avocado oil or olive oil
+- 2 tbls		    pure maple syrup or golden syrup (if using golden syrup slowly mix into milk)
+- 1 tsp 		    vanilla extract
 
 ## Ingredients for 2 pancakes
 - 2 cups 		    GF flour
