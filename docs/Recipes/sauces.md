@@ -53,15 +53,15 @@ sourcd from here
 https://tastylicious.com/hp-sauce-substitutes/
 ## ingredients
 Ingredients
-- 10 tomatoes, chopped - 1 jar of red peppers (not in vinegar)
+- 10 tomatoes, chopped - replace w/ 1 jar of red peppers (not in vinegar)
 - ¾ cup brown sugar
-- 1 Tbsp tamarind paste ??? - coconut aminos?
+- 1 Tbsp tamarind paste - replace w/ mango chutney instead
 - 1 cup prunes
 - 2 granny smith apples, quartered
 - 1 medium onion, chopped
-- Juice of one lemon - replace with ???
-- ½ cup white vinegar - replace with vegan chardonay
-- ½ cup malt vinegar - replace with vegan chardonay
+- Juice of one lemon - replace w/ One teaspoon (5 grams) of citric acid is equal in acidity to about 1/2 cup (120 ml) of lemon juice
+- ½ cup white vinegar - replace w/ vegan chardonay
+- ½ cup malt vinegar - replace w/ vegan chardonay
 - 1 Tbsp kosher salt
 - 1 tsp cracked black pepper
 - 1 Tbsp allspice
