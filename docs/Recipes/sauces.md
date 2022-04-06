@@ -27,7 +27,7 @@
 - 2 			anchovies
 - 125ml 		molasses
 - 125ml 		coconut aminos
-- 500ml		acidic white wine - vegan cahrdonay
+- 500ml		acidic white wine - vegan chardonay
 - 250ml 		water
 - 3tsps		grained mustard
 - 3cm			cinnamon stick
