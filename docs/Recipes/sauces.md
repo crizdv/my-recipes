@@ -59,7 +59,7 @@ Ingredients
 - 1 cup prunes
 - 2 granny smith apples, quartered
 - 1 medium onion, chopped
-- Juice of one lemon - replace w/ One teaspoon (5 grams) of citric acid is equal in acidity to about 1/2 cup (120 ml) of lemon juice
+- Juice of one lemon - replace w/ One teaspoon (5 grams) of citric acid is equal in acidity to about 1/2 cup (120 ml) of lemon juice. plus add water to dilute 
 - ½ cup white vinegar - replace w/ vegan chardonay
 - ½ cup malt vinegar - replace w/ vegan chardonay
 - 1 Tbsp kosher salt
