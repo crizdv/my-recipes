@@ -47,3 +47,32 @@ How to prepare Homemade Worcestershire Sauce
 - We lower the heat and cook for about 20 minutes to reduce it while stirring, thus preventing it from sticking.
 - Finally, we strain the sauce and pour it into a glass container, let it stand at room temperature for a minimum of two weeks, stirring it several times during this period.
 
+
+# HP sauce - chris friendly
+
+## ingredients
+Ingredients
+- 10 tomatoes, chopped - 1 jar of red peppers (not in vinegar)
+- ¾ cup brown sugar
+- 1 Tbsp tamarind paste ??? - coconut aminos?
+- 1 cup prunes
+- 2 granny smith apples, quartered
+- 1 medium onion, chopped
+- Juice of one lemon - replace with ???
+- ½ cup white vinegar - replace with vegan chardonay
+- ½ cup malt vinegar - replace with vegan chardonay
+- 1 Tbsp kosher salt
+- 1 tsp cracked black pepper
+- 1 Tbsp allspice
+- 1 tsp Tabasco sauce
+- 1 Tbsp Worcestershire sauce (chris friendly version)
+
+
+## recipie
+
+Method
+- Add all ingredients to a large pot and heat on high until boiling.
+- Reduce to a medium-low heat and simmer for one hour, occasionally stirring.
+- Remove pot from heat and process all the ingredients through a food mill.
+- Transfer the final sauce to sterilized jars and store in a cool, dark place until needed.
+- Note: If you don’t have a food mill, you can use a stick blender to process the sauce while it’s still in the pot. 
