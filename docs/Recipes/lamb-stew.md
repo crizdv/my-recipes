@@ -1,4 +1,8 @@
-# Ingredients
+# Lamb stew
+sourced from here
+https://natashaskitchen.com/lamb-stew-recipe/
+
+## Ingredients
 
 - 4 oz bacon, (4 strips, chopped into 1/4" strips)
 - 2 lbs boneless leg of lamb or lamb shoulder, trimmed of excess fat, cut into 1 1/2" pieces
