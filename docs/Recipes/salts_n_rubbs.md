@@ -26,3 +26,36 @@
 
 
 
+# Sayzon Goya
+[original](https://www.kitchengidget.com/2021/04/16/sazon-seasoning/)
+- 2 tablespoons ground annatto (achiote)
+  - repalce with saffron or paprika
+- 1 tablespoon salt
+- 1 teaspoon garlic powder
+- ½ teaspoon ground coriander
+- ½ teaspoon ground cumin
+
+## Instructions
+- Whisk everything together and store in an airtight container.
+- Use 1/2 teaspoon or more in recipes calling for one packet of Goya Sazon.
+## Notes
+- Makes just over 1/4 cup of seasoning, about 28 servings if using 1/2 teaspoon.
+
+
+# Cajun Spice
+[recipe 1](https://www.thespruceeats.com/cajun-spice-mix-recipe-1809300)
+[recipe 2](https://twosleevers.com/homemade-cajun-spice-mix/)
+## Ingredients (double)
+- 1 tablespoon Dried Parsley
+- 1 tablespoon dried onions
+- 1 tablespoon Smoked Paprika
+- 1 teaspoon Dried Oregano
+- 1 teaspoon Dried Thyme
+- 1 teaspoon Cayenne Pepper
+- 1 teaspoon Dried Garlic
+- 1 teaspoon Ground Black Pepper
+- 1 teaspoon Kosher Salt
+- 1 teaspoon cumin
+- 1 teaspoon coriander
+
+Combine n run through spice grinder or nutribullett.
