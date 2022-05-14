@@ -59,3 +59,27 @@
 - 1 teaspoon coriander
 
 Combine n run through spice grinder or nutribullett.
+
+
+# Taco Seasoning
+[original](https://www.allrecipes.com/recipe/222165/homemade-taco-seasoning-mix/)
+- 2 teaspoons hot chili powder
+- 1 ½ teaspoons paprika
+- 1 teaspoon onion powder
+- ½ teaspoon sea salt
+- ½ teaspoon garlic powder
+- ½ teaspoon ground cumin
+- ½ teaspoon oregano
+- ¼ teaspoon freshly ground black pepper, or to taste
+- 1 pinch cayenne pepper, or to taste (Optional)
+- 1 pinch red pepper flakes, or to taste (Optional)
+
+# Fajita Seasoning
+[original](https://www.bbcgoodfood.com/recipes/fajita-seasoning)
+- ½ tbsp hot chilli powder
+- 2 tbsp sweet smoked paprika
+- 1 tbsp ground cumin
+- 1 tbsp garlic powder
+- ½ tbsp ground coriander
+- 1 heaped tbsp dried oregano
+

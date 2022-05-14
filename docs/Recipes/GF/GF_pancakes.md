@@ -1,5 +1,5 @@
 # GF Pancakes - chris friendly
-
+[original](https://www.whattheforkfoodblog.com/2018/01/06/gluten-free-pancakes/)
 ## Ingredients for 4 pancakes
 - 2 cups 		    GF flour
 - 4 tsps		    Baking powder

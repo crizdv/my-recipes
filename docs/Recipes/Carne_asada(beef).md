@@ -15,7 +15,7 @@
 - 4 to 6 cloves garlic, chopped
 - 1 teaspoon ground cumin
 - 1 (1.41-ounce) packet Sazon Goya with annatto
-  - [recipie](salts_n_rubbs.md)
+  - [recipie](salts_rubs_seasonings.md)
 - Salt, to taste
 - Freshly ground black pepper, to taste
 - 2 pounds flank steak
