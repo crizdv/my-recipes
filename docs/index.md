@@ -36,7 +36,7 @@
 - [Beef Vindaloo](Recipes/Indian/beef_Vindaloo.md)
 - [Lamb Kofta Meatballs](Recipes/Indian/Lamb_Kofta_meatballs.md)
 - [Pressure Cooker Beef Curry](Recipes/Indian/pressure_cooker_beef_curry.md)
-- [North India Chicken Curry](Recipes/Indian/North_Indian_Chicken_Curry.md)
+- [North India Chicken Curry](Recipes/Indian/north_indian_chicken_curry.md)
 
 ### Sides
 - [Cajun Dirty Rice](Recipes/Sides/Cajun_dirty_rice.md)
