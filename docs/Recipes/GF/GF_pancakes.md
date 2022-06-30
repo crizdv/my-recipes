@@ -15,7 +15,7 @@
 - 1 1/2 tsps		Baking soda
 - 1/2 tsps        Baking powder
 - 1/2 tsps 		sea salt
-- 1 large 	    egg - replace with double amount of organ egg replacer for 2 eggs (4 tsps with 60ml water)
+- 1 large 	    egg - replace with double amount of organ egg replacer for 1 egg (2 tsps with 30ml water)
 - 1 1/4 cups	    milk (almond/rice/cashew). start with 1 cup and work up. Add more if you want to make larger skinnier pancakces
 - 2 tbls      olive oil
 - 1 tbls		    pure maple syrup or golden syrup (if using golden syrup slowly mix into milk)
