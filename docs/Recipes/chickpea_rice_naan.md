@@ -1,18 +1,22 @@
-CHICKPEA RICE PAN BREAD
-(Print Recipe)
-3/4 cup chickpea flour (besan)
-1/4 cup brown or red rice flour
-1/2 teaspoon salt
+CHICKPEA RICE naan type thing
+
+Ingredients
+2 supermarket scoops of dried chick peas
+2 cups of rice
+water to cover 
+
+
+1/2 teaspoon of salt
 1 teaspoon baking powder
-1/2 tablespoon lemon juice
 1/2 tablespoon olive oil
 1/2 to 3/4 cup water
-Serves 6
 ————————————————————–
-- In a bowl, mix the flours with baking powder and salt.
-- In another bowl, mix lemon juice and olive oil. 
-- Add to the flour mixture, then slowly incorporate the water, little by little. 
-- The mixture should have the consistency of a very thick batter, rather than a dough.
+- In a pot put chickpeas n rice, cover woth water. let ferment over night. 12 to 24 hours.
+- drain n wash 
+- add to nutirbullett, this will be 2 loads
+- with half of salt, bp, olive oil, 2/3rd cup of water
+- once both batches have been blitzed, add more water to get pancake mix consitency.
+
 
 - Transfer the batter to a medium sized non-stickpan, 
 - spreading it like a 1 inch thick disc and flatten it as even as possible. 
