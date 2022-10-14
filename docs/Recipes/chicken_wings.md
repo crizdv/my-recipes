@@ -18,5 +18,6 @@ CRISPY BAKED CHICKEN WINGS RECIPE – STEP BY STEP
 - I usually just use my silicone mat and am very happy with the results.
 - Preheat your oven to 120 degrees C. Set the wings onto a lightly oiled baking sheet and bake for 30 minutes. Flip the wings.
 - Increase the oven temperature to 220 degrees C and bake the wings another 30 minutes, or until the wings are cooked through and the skins are nice and crispy. If you’d like, you can hit them with the broiler for a couple minutes for an extra blast of crispiness.
+- if using forced fan bake only 15 minutes, check, then maybe 3 more minutes
 - BOOM! Done! Crispy baked wings! I love them. So wonderfully golden brown.
 - Serve as is, or toss them with your favorite wing sauce. Try my Homemade Buffalo Sauce Recipe. It rocks!
