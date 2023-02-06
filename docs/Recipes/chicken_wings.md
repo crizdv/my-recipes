@@ -4,7 +4,7 @@
 
 ## Ingredients
 - 2 pounds chicken wings, separated and wing tips removed
-- 1 tablespoon baking powder
+- 1/4 teaspoon baking powder
 - 1 teaspoon salt
 - Extra seasonings as desired – I used 2 tablespoons Homemade Creole Seasoning, but any of your preferred seasonings will do.
 
