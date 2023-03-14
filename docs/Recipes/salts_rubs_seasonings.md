@@ -83,3 +83,12 @@ Combine n run through spice grinder or nutribullett.
 - ½ tbsp ground coriander
 - 1 heaped tbsp dried oregano
 
+# Burrito Seasoning - very yummy
+[original)(https://www.recipetineats.com/chicken-burrito/)
+
+BURRITO SEASONING:
+- 1 tsp each onion salt, dried oregano
+- 2 tsp each dried cumin powder, paprika
+- 1/4 tsp black pepper
+- pinch of ciptole powder
+- 3/4 tsp cayenne pepper (not for Ros)
