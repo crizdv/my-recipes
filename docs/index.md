@@ -8,7 +8,7 @@
 - [Ginger Beer](Recipes/Drinks/Ginger_Beer.md)
 
 ## Breads
-- [Breads](Recipies/breads.md)
+- [Breads](Recipes/breads.md)
 - [Potato Bread](Recipes/Potato_Bread.md)
 - [Banana Bread](Recipes/Banana_Bread.md)
 
