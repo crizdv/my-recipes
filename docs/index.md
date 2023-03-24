@@ -7,11 +7,13 @@
 ## Drinks
 - [Ginger Beer](Recipes/Drinks/Ginger_Beer.md)
 
+## Breads
+- [Breads](Recipies/breads.md)
+- [Potato Bread](Recipes/Potato_Bread.md)
+- [Banana Bread](Recipes/Banana_Bread.md)
 
 ## Recipes
 - [GF Pancakes](Recipes/GF/GF_pancakes.md)
-- [Potato Bread](Recipes/Potato_Bread.md)
-- [Banana Bread](Recipes/Banana_Bread.md)
 - [Chilis](Recipes/chili.md)
 
 ### Meat Dishes
