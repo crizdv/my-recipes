@@ -26,7 +26,7 @@
 - [Beef Checks](Recipes/Slow_cooked_beef_checks.md)
 - [Irish Stew](Recipes/irish_stew.md)
 - [Ham bone soup](Recipes/Ham_bone_soup.md)
-- [yummy chicken meatballs]()
+- [yummy chicken meatballs](Recipes/chicken_meatballs.md)
 
 
 ### Indian dishes
