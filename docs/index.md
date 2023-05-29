@@ -27,7 +27,7 @@
 - [Irish Stew](Recipes/irish_stew.md)
 - [Ham bone soup](Recipes/Ham_bone_soup.md)
 - [yummy chicken meatballs](Recipes/chicken_meatballs.md)
-
+- [tandoori chicken](Recipes/tandoori_chicken.md)
 
 ### Indian dishes
 - [Jalfrezi](Recipes/Indian/Chicken_Jalfrezi.md)
