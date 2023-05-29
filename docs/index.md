@@ -27,7 +27,7 @@
 - [Irish Stew](Recipes/irish_stew.md)
 - [Ham bone soup](Recipes/Ham_bone_soup.md)
 - [yummy chicken meatballs](Recipes/chicken_meatballs.md)
-- [tandoori chicken](Recipes/tandoori_chicken.md)
+
 
 ### Indian dishes
 - [Jalfrezi](Recipes/Indian/Chicken_Jalfrezi.md)
@@ -40,6 +40,8 @@
 - [Lamb Kofta Meatballs](Recipes/Indian/Lamb_Kofta_meatballs.md)
 - [Pressure Cooker Beef Curry](Recipes/Indian/pressure_cooker_beef_curry.md)
 - [North India Chicken Curry](Recipes/Indian/north_indian_chicken_curry.md)
+- [tandoori chicken](Recipes/tandoori_chicken.md)
+
 
 ### Sides
 - [Cajun Dirty Rice](Recipes/Sides/Cajun_dirty_rice.md)
