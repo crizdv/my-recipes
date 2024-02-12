@@ -2,6 +2,7 @@
 ## Salts, Rubs, Seasonings, Sauces
 - [Salts n Rubs](Recipes/salts_rubs_seasonings.md)
 - [Sauces](Recipes/sauces.md)
+- [hot sauce](Recipes/Fermenting/hotsauce.md)
 
 
 ## Drinks
