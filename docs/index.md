@@ -14,6 +14,7 @@
 
 ## Recipes
 - [GF Pancakes](Recipes/GF/GF_pancakes.md)
+- [GF Flour](Recipes/GF/GF_flour.md)
 - [Chilis](Recipes/chili.md)
 
 ### Meat Dishes
