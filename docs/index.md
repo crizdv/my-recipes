@@ -54,4 +54,5 @@
 ### Sweets
 - [Russian Fudge](Recipes/sweet_stuff/Russian_fudge.md)
 - [Rawtella Brownies](Recipes/sweet_stuff/Rawtella_brownies.md)
+- [Strawberry icecream](Recipes/strawberry_icecream.md)
 - 
