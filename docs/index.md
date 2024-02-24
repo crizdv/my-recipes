@@ -2,7 +2,7 @@
 ## Salts, Rubs, Seasonings, Sauces
 - [Salts n Rubs](Recipes/salts_rubs_seasonings.md)
 - [Sauces](Recipes/sauces.md)
-- [hot sauce](Recipes/Fermenting/hotsauce.md)
+- [fermented hot sauce](Recipes/Fermenting/hotsauce.md)
 
 
 ## Drinks
@@ -12,7 +12,8 @@
 - [Breads](Recipes/breads.md)
 - [Potato Bread](Recipes/Potato_Bread.md)
 - [Banana Bread](Recipes/Banana_Bread.md)
-
+- [Banana Bread](Recipes/Banana_Bread_1.md)
+- 
 ## Recipes
 - [GF Pancakes](Recipes/GF/GF_pancakes.md)
 - [GF Flour](Recipes/GF/GF_flour.md)
@@ -54,5 +55,5 @@
 ### Sweets
 - [Russian Fudge](Recipes/sweet_stuff/Russian_fudge.md)
 - [Rawtella Brownies](Recipes/sweet_stuff/Rawtella_brownies.md)
-- [Strawberry icecream](Recipes/strawberry_icecream.md)
+- [Strawberry icecream](Recipes/sweet_stuff/strawberry_icecream.md)
 - 
