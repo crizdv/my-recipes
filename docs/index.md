@@ -12,7 +12,7 @@
 - [Breads](Recipes/breads.md)
 - [Potato Bread](Recipes/Potato_Bread.md)
 - [Banana Bread](Recipes/Banana_Bread.md)
-- [Banana Bread](Recipes/Banana_Bread_1.md)
+- [Banana Bread_1](Recipes/Banana_Bread_1.md)
 - 
 ## Recipes
 - [GF Pancakes](Recipes/GF/GF_pancakes.md)
